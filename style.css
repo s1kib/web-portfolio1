@@ -18,6 +18,7 @@ h2{
     width: 40%;
    float: left;
     margin-left: 5%;
+    padding-left: 2%;
 }
 
 .half-width img {
@@ -50,7 +51,7 @@ section{
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray ;
-    border-radius: 5px;
+   background-color: white;
     height:80%;
    
 }
@@ -58,7 +59,6 @@ section{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-color: white;
 }
 #full-stack{
     border-left: 7px solid;
@@ -71,7 +71,7 @@ section{
     border-image-slice: 1;
 }
 footer{
-    box-shadow : 0px 10px 25px rgb(35,11,247);
+    box-shadow : 0px 10px 25px black;
     height: 30px;
     padding: 10px 0px 30px opx;
 }
