@@ -50,7 +50,7 @@ section{
 
 }
 .single-experience{
-   
+   box-shadow: 1opx 10px 40px gray;
    background-color: white;
     height:80%;
    
@@ -62,12 +62,12 @@ section{
 }
 #full-stack{
     border-left: 7px solid;
-    background-image: linear-gradient(180deg, purple, rgb(247, 96, 247));
+    border-image: linear-gradient(180deg, purple, rgb(247, 96, 247));
     border-image-slice: 1 ;
 }
 #baby-web{
     border-left: 7px solid;
-    background-image: linear-gradient(180deg, rgb(34, 11, 247), rgb(137, 170, 241));
+    border-image: linear-gradient(180deg, rgb(34, 11, 247), rgb(137, 170, 241));
     border-image-slice: 1;
 }
 footer{
