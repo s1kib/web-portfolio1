@@ -50,7 +50,8 @@ section{
 
 }
 .single-experience{
-   box-shadow: 1opx 10px 40px gray;
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 10px;
    background-color: white;
     height:80%;
    
@@ -61,6 +62,7 @@ section{
     background-position: left;
 }
 #full-stack{
+    
     border-left: 7px solid;
     border-image: linear-gradient(180deg, purple, rgb(247, 96, 247));
     border-image-slice: 1 ;
